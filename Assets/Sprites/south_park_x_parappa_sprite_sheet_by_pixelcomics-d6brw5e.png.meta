@@ -1,0 +1,807 @@
+fileFormatVersion: 2
+guid: 2278bf5bed9deee4bbb734badc98f1bd
+timeCreated: 1517060597
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: south_park_x_parappa_sprite_sheet_by_pixelcomics-d6brw5e_0
+    21300002: south_park_x_parappa_sprite_sheet_by_pixelcomics-d6brw5e_1
+    21300004: south_park_x_parappa_sprite_sheet_by_pixelcomics-d6brw5e_2
+    21300006: south_park_x_parappa_sprite_sheet_by_pixelcomics-d6brw5e_3
+    21300008: south_park_x_parappa_sprite_sheet_by_pixelcomics-d6brw5e_4
+    21300010: south_park_x_parappa_sprite_sheet_by_pixelcomics-d6brw5e_5
+    21300012: south_park_x_parappa_sprite_sheet_by_pixelcomics-d6brw5e_6
+    21300014: south_park_x_parappa_sprite_sheet_by_pixelcomics-d6brw5e_7
+    21300016: south_park_x_parappa_sprite_sheet_by_pixelcomics-d6brw5e_8
+    21300018: south_park_x_parappa_sprite_sheet_by_pixelcomics-d6brw5e_9
+    21300020: south_park_x_parappa_sprite_sheet_by_pixelcomics-d6brw5e_10
+    21300022: south_park_x_parappa_sprite_sheet_by_pixelcomics-d6brw5e_11
+    21300024: south_park_x_parappa_sprite_sheet_by_pixelcomics-d6brw5e_12
+    21300026: south_park_x_parappa_sprite_sheet_by_pixelcomics-d6brw5e_13
+    21300028: south_park_x_parappa_sprite_sheet_by_pixelcomics-d6brw5e_14
+    21300030: south_park_x_parappa_sprite_sheet_by_pixelcomics-d6brw5e_15
+    21300032: south_park_x_parappa_sprite_sheet_by_pixelcomics-d6brw5e_16
+    21300034: south_park_x_parappa_sprite_sheet_by_pixelcomics-d6brw5e_17
+    21300036: south_park_x_parappa_sprite_sheet_by_pixelcomics-d6brw5e_18
+    21300038: south_park_x_parappa_sprite_sheet_by_pixelcomics-d6brw5e_19
+    21300040: south_park_x_parappa_sprite_sheet_by_pixelcomics-d6brw5e_20
+    21300042: south_park_x_parappa_sprite_sheet_by_pixelcomics-d6brw5e_21
+    21300044: south_park_x_parappa_sprite_sheet_by_pixelcomics-d6brw5e_22
+    21300046: south_park_x_parappa_sprite_sheet_by_pixelcomics-d6brw5e_23
+    21300048: south_park_x_parappa_sprite_sheet_by_pixelcomics-d6brw5e_24
+    21300050: south_park_x_parappa_sprite_sheet_by_pixelcomics-d6brw5e_25
+    21300052: south_park_x_parappa_sprite_sheet_by_pixelcomics-d6brw5e_26
+    21300054: south_park_x_parappa_sprite_sheet_by_pixelcomics-d6brw5e_27
+    21300056: south_park_x_parappa_sprite_sheet_by_pixelcomics-d6brw5e_28
+    21300058: south_park_x_parappa_sprite_sheet_by_pixelcomics-d6brw5e_29
+    21300060: south_park_x_parappa_sprite_sheet_by_pixelcomics-d6brw5e_30
+    21300062: south_park_x_parappa_sprite_sheet_by_pixelcomics-d6brw5e_31
+    21300064: south_park_x_parappa_sprite_sheet_by_pixelcomics-d6brw5e_32
+    21300066: south_park_x_parappa_sprite_sheet_by_pixelcomics-d6brw5e_33
+    21300068: south_park_x_parappa_sprite_sheet_by_pixelcomics-d6brw5e_34
+    21300070: south_park_x_parappa_sprite_sheet_by_pixelcomics-d6brw5e_35
+    21300072: south_park_x_parappa_sprite_sheet_by_pixelcomics-d6brw5e_36
+    21300074: south_park_x_parappa_sprite_sheet_by_pixelcomics-d6brw5e_37
+    21300076: south_park_x_parappa_sprite_sheet_by_pixelcomics-d6brw5e_38
+    21300078: south_park_x_parappa_sprite_sheet_by_pixelcomics-d6brw5e_39
+    21300080: south_park_x_parappa_sprite_sheet_by_pixelcomics-d6brw5e_40
+    21300082: south_park_x_parappa_sprite_sheet_by_pixelcomics-d6brw5e_41
+    21300084: south_park_x_parappa_sprite_sheet_by_pixelcomics-d6brw5e_42
+    21300086: south_park_x_parappa_sprite_sheet_by_pixelcomics-d6brw5e_43
+    21300088: south_park_x_parappa_sprite_sheet_by_pixelcomics-d6brw5e_44
+    21300090: south_park_x_parappa_sprite_sheet_by_pixelcomics-d6brw5e_45
+  externalObjects: {}
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -1
+    wrapU: 1
+    wrapV: 1
+    wrapW: -1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - buildTarget: Windows Store Apps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: south_park_x_parappa_sprite_sheet_by_pixelcomics-d6brw5e_0
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 215
+        width: 30
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: south_park_x_parappa_sprite_sheet_by_pixelcomics-d6brw5e_1
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 215
+        width: 31
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: south_park_x_parappa_sprite_sheet_by_pixelcomics-d6brw5e_2
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 215
+        width: 37
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: south_park_x_parappa_sprite_sheet_by_pixelcomics-d6brw5e_3
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 215
+        width: 31
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: south_park_x_parappa_sprite_sheet_by_pixelcomics-d6brw5e_4
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 215
+        width: 31
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: south_park_x_parappa_sprite_sheet_by_pixelcomics-d6brw5e_5
+      rect:
+        serializedVersion: 2
+        x: 186
+        y: 215
+        width: 31
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: south_park_x_parappa_sprite_sheet_by_pixelcomics-d6brw5e_6
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 215
+        width: 31
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: south_park_x_parappa_sprite_sheet_by_pixelcomics-d6brw5e_7
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 215
+        width: 31
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: south_park_x_parappa_sprite_sheet_by_pixelcomics-d6brw5e_8
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 215
+        width: 31
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: south_park_x_parappa_sprite_sheet_by_pixelcomics-d6brw5e_9
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 215
+        width: 31
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: south_park_x_parappa_sprite_sheet_by_pixelcomics-d6brw5e_10
+      rect:
+        serializedVersion: 2
+        x: 367
+        y: 215
+        width: 31
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: south_park_x_parappa_sprite_sheet_by_pixelcomics-d6brw5e_11
+      rect:
+        serializedVersion: 2
+        x: 404
+        y: 215
+        width: 28
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: south_park_x_parappa_sprite_sheet_by_pixelcomics-d6brw5e_12
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 163
+        width: 31
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: south_park_x_parappa_sprite_sheet_by_pixelcomics-d6brw5e_13
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 163
+        width: 31
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: south_park_x_parappa_sprite_sheet_by_pixelcomics-d6brw5e_14
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 163
+        width: 37
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: south_park_x_parappa_sprite_sheet_by_pixelcomics-d6brw5e_15
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 163
+        width: 24
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: south_park_x_parappa_sprite_sheet_by_pixelcomics-d6brw5e_16
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 163
+        width: 31
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: south_park_x_parappa_sprite_sheet_by_pixelcomics-d6brw5e_17
+      rect:
+        serializedVersion: 2
+        x: 183
+        y: 163
+        width: 33
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: south_park_x_parappa_sprite_sheet_by_pixelcomics-d6brw5e_18
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 163
+        width: 31
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: south_park_x_parappa_sprite_sheet_by_pixelcomics-d6brw5e_19
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 163
+        width: 28
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: south_park_x_parappa_sprite_sheet_by_pixelcomics-d6brw5e_20
+      rect:
+        serializedVersion: 2
+        x: 293
+        y: 163
+        width: 28
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: south_park_x_parappa_sprite_sheet_by_pixelcomics-d6brw5e_21
+      rect:
+        serializedVersion: 2
+        x: 327
+        y: 163
+        width: 31
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: south_park_x_parappa_sprite_sheet_by_pixelcomics-d6brw5e_22
+      rect:
+        serializedVersion: 2
+        x: 364
+        y: 163
+        width: 32
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: south_park_x_parappa_sprite_sheet_by_pixelcomics-d6brw5e_23
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 163
+        width: 36
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: south_park_x_parappa_sprite_sheet_by_pixelcomics-d6brw5e_24
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 84
+        width: 30
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: south_park_x_parappa_sprite_sheet_by_pixelcomics-d6brw5e_25
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 84
+        width: 29
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: south_park_x_parappa_sprite_sheet_by_pixelcomics-d6brw5e_26
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 84
+        width: 29
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: south_park_x_parappa_sprite_sheet_by_pixelcomics-d6brw5e_27
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 84
+        width: 39
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: south_park_x_parappa_sprite_sheet_by_pixelcomics-d6brw5e_28
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 84
+        width: 29
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: south_park_x_parappa_sprite_sheet_by_pixelcomics-d6brw5e_29
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 84
+        width: 30
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: south_park_x_parappa_sprite_sheet_by_pixelcomics-d6brw5e_30
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 84
+        width: 27
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: south_park_x_parappa_sprite_sheet_by_pixelcomics-d6brw5e_31
+      rect:
+        serializedVersion: 2
+        x: 282
+        y: 84
+        width: 27
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: south_park_x_parappa_sprite_sheet_by_pixelcomics-d6brw5e_32
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 84
+        width: 29
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: south_park_x_parappa_sprite_sheet_by_pixelcomics-d6brw5e_33
+      rect:
+        serializedVersion: 2
+        x: 354
+        y: 84
+        width: 47
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: south_park_x_parappa_sprite_sheet_by_pixelcomics-d6brw5e_34
+      rect:
+        serializedVersion: 2
+        x: 404
+        y: 84
+        width: 29
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: south_park_x_parappa_sprite_sheet_by_pixelcomics-d6brw5e_35
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 4
+        width: 34
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: south_park_x_parappa_sprite_sheet_by_pixelcomics-d6brw5e_36
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 4
+        width: 47
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: south_park_x_parappa_sprite_sheet_by_pixelcomics-d6brw5e_37
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 4
+        width: 27
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: south_park_x_parappa_sprite_sheet_by_pixelcomics-d6brw5e_38
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 4
+        width: 49
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: south_park_x_parappa_sprite_sheet_by_pixelcomics-d6brw5e_39
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 4
+        width: 28
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: south_park_x_parappa_sprite_sheet_by_pixelcomics-d6brw5e_40
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 4
+        width: 28
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: south_park_x_parappa_sprite_sheet_by_pixelcomics-d6brw5e_41
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 4
+        width: 24
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: south_park_x_parappa_sprite_sheet_by_pixelcomics-d6brw5e_42
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 4
+        width: 24
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: south_park_x_parappa_sprite_sheet_by_pixelcomics-d6brw5e_43
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 4
+        width: 24
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: south_park_x_parappa_sprite_sheet_by_pixelcomics-d6brw5e_44
+      rect:
+        serializedVersion: 2
+        x: 365
+        y: 4
+        width: 24
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: south_park_x_parappa_sprite_sheet_by_pixelcomics-d6brw5e_45
+      rect:
+        serializedVersion: 2
+        x: 402
+        y: 4
+        width: 24
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    outline: []
+    physicsShape: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

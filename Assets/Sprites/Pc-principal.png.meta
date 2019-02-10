@@ -1,0 +1,342 @@
+fileFormatVersion: 2
+guid: 942d105a62ca3394b824b700a60790b0
+timeCreated: 1517084442
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: head
+    21300002: arm_upper_l
+    21300004: arm_upper_r
+    21300006: arm_lower_r
+    21300008: arm_lower_l
+    21300010: hand_r
+    21300012: hand_l
+    21300014: hip
+    21300016: torso
+    21300018: leg_upper_l
+    21300020: leg_lower_l
+    21300022: foot_l
+    21300024: foot_r
+    21300026: leg_lower_r
+    21300028: leg_upper_r
+  externalObjects: {}
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -1
+    wrapU: 1
+    wrapV: 1
+    wrapW: -1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - buildTarget: Windows Store Apps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: head
+      rect:
+        serializedVersion: 2
+        x: 1018
+        y: 760
+        width: 272
+        height: 407
+      alignment: 9
+      pivot: {x: 0.53306985, y: 0.07640642}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: arm_upper_l
+      rect:
+        serializedVersion: 2
+        x: 755
+        y: 473
+        width: 97
+        height: 198
+      alignment: 9
+      pivot: {x: 0.6931901, y: 0.96564645}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: arm_upper_r
+      rect:
+        serializedVersion: 2
+        x: 872
+        y: 466
+        width: 97
+        height: 200
+      alignment: 9
+      pivot: {x: 0.2836272, y: 0.9722339}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: arm_lower_r
+      rect:
+        serializedVersion: 2
+        x: 854
+        y: 275
+        width: 65
+        height: 126
+      alignment: 9
+      pivot: {x: 0.5, y: 0.97592235}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: arm_lower_l
+      rect:
+        serializedVersion: 2
+        x: 761
+        y: 278
+        width: 65
+        height: 127
+      alignment: 9
+      pivot: {x: 0.5691923, y: 0.9780771}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: hand_r
+      rect:
+        serializedVersion: 2
+        x: 862
+        y: 113
+        width: 86
+        height: 127
+      alignment: 9
+      pivot: {x: 0.6133082, y: 0.9721746}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: hand_l
+      rect:
+        serializedVersion: 2
+        x: 753
+        y: 116
+        width: 87
+        height: 127
+      alignment: 9
+      pivot: {x: 0.39661065, y: 0.9721746}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: hip
+      rect:
+        serializedVersion: 2
+        x: 1054
+        y: 173
+        width: 248
+        height: 120
+      alignment: 9
+      pivot: {x: 0.5423146, y: 0.6374227}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: torso
+      rect:
+        serializedVersion: 2
+        x: 1021
+        y: 322
+        width: 326
+        height: 408
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: leg_upper_l
+      rect:
+        serializedVersion: 2
+        x: 1429
+        y: 518
+        width: 160
+        height: 226
+      alignment: 9
+      pivot: {x: 0.574958, y: 0.90463907}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: leg_lower_l
+      rect:
+        serializedVersion: 2
+        x: 1421
+        y: 266
+        width: 119
+        height: 238
+      alignment: 9
+      pivot: {x: 0.544093, y: 0.98502064}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: foot_l
+      rect:
+        serializedVersion: 2
+        x: 1399
+        y: 152
+        width: 134
+        height: 94
+      alignment: 9
+      pivot: {x: 0.67900425, y: 0.85086626}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: foot_r
+      rect:
+        serializedVersion: 2
+        x: 1568
+        y: 163
+        width: 134
+        height: 93
+      alignment: 9
+      pivot: {x: 0.309809, y: 0.83851886}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: leg_lower_r
+      rect:
+        serializedVersion: 2
+        x: 1572
+        y: 269
+        width: 119
+        height: 238
+      alignment: 9
+      pivot: {x: 0.43071124, y: 0.9724226}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: leg_upper_r
+      rect:
+        serializedVersion: 2
+        x: 1605
+        y: 520
+        width: 157
+        height: 225
+      alignment: 9
+      pivot: {x: 0.4522565, y: 0.916432}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    outline: []
+    physicsShape: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
